@@ -1,0 +1,18 @@
+path: C:/Users/Dell/Desktop/man/zaalima/PR1/DeepPCB_YOLO
+
+train: images/train
+val: images/val
+
+nc: 2
+
+names: ['pass','defect']
+
+
+""""
+  0: open
+  1: short
+  2: mousebite
+  3: spur
+  4: copper
+  5: pin-hole
+"""
